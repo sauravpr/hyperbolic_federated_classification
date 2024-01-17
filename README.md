@@ -2,7 +2,7 @@
 
 An efficient method for federated classification in hyperbolic spaces, as introduced in our paper:
 
-- [arXiv 2023] [Federated Classification in Hyperbolic Spaces via Secure Aggregation of Convex Hulls](https://arxiv.org/abs/2308.06895)
+- [TMLR 2024] [Federated Classification in Hyperbolic Spaces via Secure Aggregation of Convex Hulls](https://openreview.net/forum?id=umggDfMHha)
 
 For the single-cell embeddings used in our paper, please refer to [sc-mvae](https://github.com/thupchnsky/sc_mvae).
 
@@ -20,12 +20,12 @@ Please consider citing our paper if you find our repository useful!
 
 ```
 @article{
-prakash2023federated,
+prakash2024_hyperbolic_fl,
 title={Federated Classification in Hyperbolic Spaces via Secure Aggregation of Convex Hulls},
 author={Prakash, Saurav and Sima, Jin and Pan, Chao and Chien, Eli and Milenkovic, Olgica},
-journal={arXiv preprint arXiv:2308.06895},
+journal={Transactions on Machine Learning Research},
 year={2023},
-url={https://arxiv.org/abs/2308.06895}
+url={https://openreview.net/forum?id=umggDfMHha}
 }
 ```
 
